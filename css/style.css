@@ -63,3 +63,13 @@ transition: 0.7s;
 
 
 }
+.happy-clients-card{
+    width: 360px;
+height: 323px;
+background: #FFFFFF;
+box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
+border-radius: 5px;
+}
+.happy-clients-card{
+margin-left: 20px;
+}
