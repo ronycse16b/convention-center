@@ -73,3 +73,12 @@ border-radius: 5px;
 .happy-clients-card{
 margin-left: 20px;
 }
+
+.footer-bg{
+    align-items: center;
+    width:100%;
+    height: 400px;
+    text-align:left;
+    background-color: black;
+    color:white;
+}
